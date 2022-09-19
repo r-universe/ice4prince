@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mixIndependR",
+    "oncran": true
+  }
+]
